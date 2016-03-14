@@ -8,7 +8,8 @@ http://bioinformatics.oxfordjournals.org/content/30/9/1214.long
 
 
 Run_201305_PhiX174_100nt_pe_UMD_HiSeq.m is the main file. 
-Test data can be found
+
+Test data can be found:
 ftp://ftp.cbcb.umd.edu/pub/data/hcorrada/BlindCall_data.tar.gz
 
 To run specific datasets, 
