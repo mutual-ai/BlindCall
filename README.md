@@ -1,4 +1,4 @@
-"# BlindCall" 
+# BlindCall
 
 ultra-fast base-calling of high-throughput sequencing data by blind deconvolution.
 Ye C, Hsiao C, Corrada Bravo H
